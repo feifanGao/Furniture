@@ -1,6 +1,6 @@
 # Furniture
 Implement the classes based on the UML diagram:
-
+![image](https://user-images.githubusercontent.com/82594000/126939076-56a93ece-0c9c-4172-be71-e84921f21ed5.png)
 
 There are 8 classes, here are the implementation details of each.
 
